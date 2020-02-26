@@ -2,9 +2,6 @@ import React from 'react'
 import '../container/App.scss'
 
 class Card extends React.Component{
-    constructor(props){
-        super(props)
-    }
     render(){
         return (
             <div className='weather-card wrap'>
