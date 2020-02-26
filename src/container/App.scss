@@ -52,7 +52,7 @@ body{
     padding: 5px;
     border-radius: 20px;
     position: absolute;
-    top: 40%;
+    top: 45%;
     left: 49%;
     overflow: hidden;
     width: 270px;
@@ -62,6 +62,7 @@ body{
     box-shadow: 0px 0px 25px 1px rgba(50, 50, 50, 0.1);
     text-align: center;
     justify-self: center;
+    z-index: -1;
 }
 .heading {
   text-align: center;
